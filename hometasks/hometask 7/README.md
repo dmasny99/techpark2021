@@ -1,2 +1,2 @@
-ДЗ 7 AB tests
+AB тесты (DiD, CUPED,ANCOVA).
 
